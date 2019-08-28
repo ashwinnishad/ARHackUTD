@@ -9,6 +9,6 @@
 - The concept of this app is to enhance a customer's shopping experience. Vuforia will be able to identify images and objects, and with the help of Unity, AR can be utilized to better assist a shopper.
 - A few example use cases
 The app can:
-1) scan food items and provide the nutritional information.
-2) scan a book to show reviews and ratings.
-3) scan items at grocery stores with added functionality for price matching, similar items, etc.
+  - scan food items and provide the nutritional information.
+  - scan a book to show reviews and ratings.
+  - scan items at grocery stores with added functionality for price matching, similar items, etc.
